@@ -1,0 +1,219 @@
+60 157
+Moscow 49
+Dhaka 93
+Idaho 79
+Natore 50
+Barishal 6
+Melbourne 12
+Sylhet 26
+Chattogram 6
+Shatkhira 15
+Mumbai 7
+Magura 8
+Tangail 61
+California 78
+Bandarban 10
+Jupiter 93
+Albama 45
+Florida 40
+Paris 10
+Goa 5
+Florida 23
+Mymensingh 7
+Kurigram 40
+Miami 45
+Washington 28
+Michigan 48
+Brazil 60
+CapeTown 39
+Milan 13
+Venus 99
+Cumilla 73
+Chihuahua 40
+Rico 54
+Rangpur 7
+Zeniro 71
+Rajshahi 75
+Khulna 22
+Dubai 97
+Uranus 29
+Mercury 54
+Toronto 55
+Kansas 56
+Malachiku 1
+Dinajpur 5
+Saturn 69
+Chennai 8
+Berlin 72
+Kolkata 6
+Jamalpur 67
+Mars 65
+Bagerhat 49
+Bhola 29
+Delhi 23
+Netrokona 81
+Rangamati 40
+Waterloo 56
+Rome 23
+Puerto 6
+Bogura 48
+Lalmonirhat 93
+Neptune 2
+Moscow Mercury 563
+Dhaka Sylhet 89
+Dhaka Goa 309
+Dhaka Saturn 735
+Dhaka Barishal 97
+Idaho Rangpur 357
+Idaho Neptune 875
+Idaho Rajshahi 930
+Natore Khulna 888
+Natore Puerto 725
+Natore California 719
+Barishal CapeTown 19
+Barishal Rome 781
+Barishal Bogura 375
+Barishal Rico 397
+Melbourne Milan 896
+Melbourne Neptune 401
+Melbourne Moscow 254
+Sylhet Jupiter 601
+Sylhet Mymensingh 177
+Chattogram Kansas 243
+Chattogram Malachiku 315
+Chattogram Chennai 962
+Chattogram Milan 749
+Shatkhira Kolkata 263
+Shatkhira Netrokona 16
+Shatkhira Chihuahua 221
+Mumbai Sylhet 14
+Magura Rico 580
+Magura Netrokona 233
+Magura Dubai 264
+Tangail CapeTown 202
+Tangail Bagerhat 24
+California Albama 499
+California Florida 973
+California Berlin 153
+California Mars 764
+California Magura 66
+Bandarban Albama 622
+Bandarban Rangpur 183
+Bandarban Delhi 212
+Bandarban Lalmonirhat 399
+Bandarban Melbourne 628
+Jupiter Malachiku 662
+Albama Magura 583
+Albama Idaho 796
+Florida Idaho 153
+Florida Chattogram 97
+Florida Netrokona 934
+Florida Venus 484
+Paris Milan 91
+Paris Bhola 621
+Goa Mumbai 106
+Goa Florida 558
+Goa Rangpur 299
+Goa Delhi 802
+Goa Khulna 684
+Florida Berlin 48
+Florida Lalmonirhat 887
+Mymensingh Dhaka 794
+Mymensingh Albama 734
+Mymensingh Netrokona 641
+Mymensingh Puerto 833
+Kurigram Zeniro 439
+Miami Barishal 317
+Washington Zeniro 710
+Washington Puerto 433
+Michigan Florida 378
+Michigan Saturn 175
+Michigan Rangamati 773
+Brazil Florida 86
+CapeTown Natore 507
+CapeTown Kurigram 848
+CapeTown Milan 699
+CapeTown Albama 844
+Milan Idaho 971
+Milan Rome 619
+Milan Michigan 812
+Venus Miami 146
+Venus Chattogram 633
+Cumilla Shatkhira 104
+Chihuahua Mumbai 272
+Chihuahua Magura 195
+Chihuahua Bandarban 247
+Chihuahua Bogura 951
+Rico Khulna 302
+Rico Toronto 982
+Rico Dinajpur 654
+Zeniro Moscow 109
+Zeniro Dinajpur 706
+Zeniro Lalmonirhat 794
+Zeniro Chennai 407
+Rajshahi Idaho 965
+Rajshahi Natore 411
+Rajshahi Toronto 2
+Rajshahi Mumbai 613
+Khulna Rangamati 148
+Khulna Berlin 689
+Dubai Brazil 1
+Dubai Uranus 122
+Dubai Kolkata 141
+Uranus Natore 994
+Uranus Florida 161
+Uranus Delhi 683
+Mercury Natore 558
+Mercury Rico 868
+Mercury Dhaka 499
+Toronto Dhaka 973
+Toronto Venus 849
+Toronto Dinajpur 940
+Kansas Natore 809
+Malachiku Cumilla 120
+Malachiku Zeniro 800
+Dinajpur Shatkhira 960
+Dinajpur Rangamati 148
+Dinajpur Goa 616
+Saturn Toronto 346
+Saturn Cumilla 309
+Chennai Albama 869
+Chennai Mymensingh 909
+Chennai Cumilla 945
+Chennai Rajshahi 541
+Chennai Rome 416
+Chennai Jamalpur 370
+Berlin Moscow 708
+Berlin Mercury 193
+Berlin Mars 367
+Kolkata Natore 669
+Kolkata Albama 729
+Kolkata Goa 773
+Kolkata Chihuahua 186
+Kolkata Bhola 658
+Jamalpur Netrokona 756
+Mars Idaho 506
+Mars Toronto 959
+Bhola Kurigram 476
+Bhola Neptune 983
+Delhi Natore 247
+Delhi California 928
+Netrokona Florida 295
+Netrokona Uranus 100
+Rangamati Rangpur 797
+Rangamati Netrokona 730
+Rangamati Florida 631
+Waterloo Bandarban 881
+Waterloo Netrokona 121
+Rome Kansas 406
+Rome Malachiku 209
+Puerto Idaho 470
+Puerto Florida 921
+Puerto Jupiter 654
+Bogura CapeTown 549
+Lalmonirhat CapeTown 490
+Lalmonirhat Bogura 349
+Neptune Berlin 811
+Neptune Bhola 10
+Neptune Brazil 724
+Saturn Lalmonirhat

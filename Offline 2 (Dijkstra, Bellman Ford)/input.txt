@@ -1,0 +1,17 @@
+7 8
+Dhk 60
+Khl 10
+Syl 15
+Rjs 60
+Ctg 50
+Mym 10
+Bgr 25
+Ctg Syl 500
+Dhk Ctg 100
+Khl Mym 300
+Khl Dhk 200
+Rjs Ctg 240
+Dhk Rjs 120
+Bgr Syl 50
+Mym Syl 100
+Dhk Bgr

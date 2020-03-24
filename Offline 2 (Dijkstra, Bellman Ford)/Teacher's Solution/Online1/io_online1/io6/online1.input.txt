@@ -1,0 +1,596 @@
+72 522
+Fandar 45
+Bilada 84
+Chetagoam 97
+Venos 31
+Rica 45
+Dorcury 14
+Pangabat 11
+Dinap 72
+Mimito 57
+Nekrotona 5
+MssCow 46
+Austreliaa 80
+Talatta 59
+Tlorida 32
+Shatira 75
+Bageraat 15
+Uraxus 58
+Mixhinan 31
+Spydero 50
+Dalhia 46
+Mebournel 42
+Tholaa 81
+Chelico 72
+Bubai 75
+Vangailla 33
+Paerta 26
+Indino 38
+Califor 38
+Janaluur 69
+Tumilao 44
+Dheko 90
+Taranto 21
+Chihuahua 4
+Mar 78
+Capepown 41
+Qagur 39
+Mymena 70
+Kolcata 7
+Washiton 10
+Borlin 43
+Phulno 90
+Paturn 36
+Togura 33
+Waterboo 26
+Bombayyya 28
+Harisha 81
+Miamia 64
+Gangrup 100
+Utanda 13
+Rames 34
+Goaaa 73
+Qanada 30
+Albaba 77
+Cennai 89
+Malachiku 9
+Perish 21
+Jupyteer 80
+Natosree 67
+Brozel 6
+Milon 67
+Zaniko 36
+MexiKo 7
+Deptune 94
+Idahoa 89
+Monirhat 48
+Silhot 91
+Hansa 65
+Najshahee 9
+Tlorida 82
+Bibihaka 76
+Halati 48
+Kurpram 40
+Fandar Tlorida 681
+Fandar Uraxus 895
+Fandar Dalhia 687
+Fandar Kolcata 252
+Fandar Waterboo 269
+Fandar Cennai 821
+Bilada Pangabat 480
+Bilada Dinap 351
+Bilada Mimito 275
+Bilada Dalhia 809
+Bilada Bubai 707
+Bilada Vangailla 202
+Bilada Chihuahua 86
+Bilada Mar 244
+Bilada Jupyteer 333
+Bilada Milon 199
+Bilada Zaniko 184
+Bilada Deptune 493
+Bilada Idahoa 485
+Bilada Halati 734
+Chetagoam Mimito 811
+Chetagoam Spydero 111
+Chetagoam Capepown 617
+Chetagoam Goaaa 810
+Chetagoam Malachiku 313
+Chetagoam Natosree 259
+Chetagoam Zaniko 787
+Chetagoam Najshahee 220
+Chetagoam Tlorida 617
+Chetagoam Halati 400
+Venos MssCow 960
+Venos Albaba 893
+Venos Cennai 569
+Rica Bilada 802
+Rica Washiton 797
+Rica Cennai 425
+Rica Tlorida 408
+Rica Halati 111
+Dorcury Fandar 473
+Dorcury Chetagoam 578
+Dorcury Tumilao 574
+Dorcury Paturn 458
+Dorcury Gangrup 162
+Dorcury Albaba 108
+Pangabat Perish 956
+Pangabat Monirhat 230
+Dinap Rica 691
+Dinap Chelico 599
+Dinap Janaluur 479
+Dinap Capepown 900
+Dinap Kolcata 215
+Dinap Phulno 890
+Dinap Waterboo 390
+Dinap Cennai 236
+Dinap Brozel 950
+Dinap Najshahee 545
+Mimito Pangabat 493
+Mimito Mixhinan 633
+Mimito Paerta 550
+Mimito Gangrup 354
+Mimito Zaniko 127
+Nekrotona Rica 82
+Nekrotona Spydero 716
+Nekrotona Janaluur 158
+Nekrotona Gangrup 999
+Nekrotona Albaba 354
+Nekrotona Milon 288
+Nekrotona Idahoa 599
+Nekrotona Hansa 324
+Nekrotona Tlorida 239
+MssCow Nekrotona 398
+MssCow Austreliaa 436
+MssCow Vangailla 155
+MssCow Albaba 966
+Austreliaa Bilada 640
+Austreliaa Shatira 928
+Austreliaa Mixhinan 228
+Austreliaa Qagur 845
+Austreliaa Waterboo 169
+Austreliaa Rames 382
+Austreliaa Malachiku 467
+Austreliaa Silhot 605
+Talatta Fandar 10
+Talatta Paturn 41
+Talatta Cennai 848
+Tlorida Mixhinan 230
+Tlorida Dalhia 840
+Tlorida Janaluur 918
+Tlorida Miamia 177
+Tlorida Silhot 557
+Shatira Chelico 166
+Shatira Capepown 138
+Shatira Washiton 382
+Shatira Natosree 236
+Bageraat Dorcury 903
+Bageraat Tumilao 141
+Bageraat Paturn 333
+Bageraat Utanda 271
+Bageraat Qanada 245
+Uraxus Bilada 52
+Uraxus Rica 72
+Uraxus Dorcury 493
+Uraxus Harisha 620
+Uraxus Milon 426
+Uraxus Najshahee 166
+Mixhinan Capepown 679
+Mixhinan Togura 972
+Mixhinan Utanda 318
+Mixhinan Goaaa 106
+Spydero Tlorida 405
+Spydero Shatira 962
+Spydero Chelico 838
+Spydero Chihuahua 364
+Spydero MexiKo 751
+Dalhia Pangabat 315
+Dalhia Talatta 591
+Dalhia Chelico 577
+Dalhia Janaluur 746
+Dalhia Kolcata 823
+Dalhia Borlin 207
+Dalhia Hansa 468
+Dalhia Najshahee 617
+Mebournel Fandar 239
+Mebournel Venos 668
+Mebournel Califor 458
+Mebournel Mar 284
+Mebournel Washiton 55
+Mebournel Togura 28
+Mebournel Utanda 681
+Mebournel Rames 990
+Mebournel Milon 116
+Mebournel Kurpram 936
+Tholaa Chetagoam 766
+Tholaa Mimito 651
+Tholaa MssCow 310
+Tholaa Shatira 722
+Tholaa Spydero 643
+Tholaa Vangailla 38
+Tholaa Califor 692
+Tholaa Harisha 544
+Tholaa Miamia 356
+Tholaa Utanda 153
+Tholaa Deptune 528
+Chelico Venos 714
+Chelico Taranto 781
+Chelico Bombayyya 30
+Chelico Harisha 116
+Chelico Perish 361
+Chelico MexiKo 77
+Chelico Hansa 949
+Chelico Kurpram 852
+Bubai Pangabat 761
+Bubai Tlorida 533
+Bubai Dalhia 782
+Bubai Mebournel 463
+Bubai Chelico 550
+Bubai Califor 960
+Bubai Zaniko 170
+Vangailla Rica 398
+Vangailla Austreliaa 172
+Vangailla Mixhinan 679
+Vangailla Spydero 685
+Vangailla Indino 963
+Vangailla Capepown 981
+Vangailla Rames 926
+Vangailla Deptune 808
+Vangailla Monirhat 482
+Vangailla Silhot 291
+Vangailla Bibihaka 870
+Paerta Pangabat 493
+Paerta Nekrotona 304
+Paerta Talatta 570
+Paerta Mebournel 668
+Paerta Indino 708
+Paerta Brozel 835
+Paerta Idahoa 716
+Indino Dorcury 436
+Indino Togura 59
+Indino Miamia 944
+Indino Perish 821
+Indino Halati 766
+Califor Chetagoam 655
+Califor Talatta 780
+Califor Tlorida 883
+Califor Shatira 960
+Califor Tumilao 892
+Califor Borlin 474
+Califor Qanada 631
+Califor Hansa 66
+Janaluur Rica 502
+Janaluur Dorcury 127
+Janaluur Talatta 642
+Janaluur Bageraat 715
+Janaluur Califor 206
+Janaluur Chihuahua 583
+Janaluur Perish 898
+Janaluur Natosree 768
+Janaluur MexiKo 569
+Janaluur Deptune 798
+Tumilao Chetagoam 207
+Tumilao Talatta 257
+Tumilao Chelico 768
+Tumilao Bubai 16
+Tumilao Taranto 643
+Tumilao Washiton 282
+Tumilao Borlin 943
+Tumilao Phulno 128
+Tumilao Bombayyya 523
+Tumilao Gangrup 285
+Tumilao Tlorida 615
+Tumilao Bibihaka 631
+Dheko Rica 628
+Dheko Nekrotona 923
+Dheko MssCow 566
+Dheko Austreliaa 574
+Dheko Mixhinan 97
+Dheko Zaniko 479
+Dheko Deptune 267
+Dheko Najshahee 615
+Taranto Pangabat 777
+Taranto Mebournel 400
+Taranto Harisha 543
+Taranto Miamia 215
+Taranto Brozel 369
+Taranto Najshahee 559
+Chihuahua Pangabat 901
+Chihuahua Tlorida 451
+Chihuahua Taranto 755
+Chihuahua Gangrup 736
+Chihuahua Utanda 906
+Chihuahua Malachiku 670
+Chihuahua Tlorida 391
+Chihuahua Bibihaka 140
+Mar Kolcata 312
+Mar Milon 55
+Mar Bibihaka 810
+Capepown Dorcury 325
+Capepown Uraxus 47
+Capepown Dheko 760
+Capepown Goaaa 258
+Capepown Albaba 365
+Capepown Milon 459
+Qagur Bilada 662
+Qagur Uraxus 460
+Qagur Mebournel 741
+Qagur Miamia 642
+Qagur Utanda 955
+Qagur Rames 263
+Qagur Goaaa 444
+Qagur Milon 260
+Qagur Zaniko 614
+Qagur Bibihaka 757
+Mymena Paturn 567
+Mymena Togura 796
+Mymena Najshahee 628
+Kolcata Chetagoam 528
+Kolcata Venos 376
+Kolcata Austreliaa 664
+Kolcata Talatta 987
+Kolcata Bageraat 715
+Kolcata Chihuahua 31
+Kolcata Phulno 90
+Kolcata Harisha 726
+Kolcata Perish 709
+Kolcata Milon 733
+Kolcata Deptune 529
+Kolcata Kurpram 180
+Washiton Nekrotona 712
+Washiton Indino 183
+Washiton Kolcata 440
+Washiton Bombayyya 852
+Washiton Malachiku 85
+Washiton Natosree 738
+Washiton Silhot 280
+Washiton Hansa 217
+Washiton Halati 798
+Borlin Chelico 641
+Borlin Paerta 647
+Borlin Rames 911
+Borlin Idahoa 452
+Borlin Monirhat 378
+Phulno Uraxus 349
+Phulno Indino 235
+Phulno Qagur 826
+Phulno Mymena 262
+Phulno Cennai 997
+Phulno Bibihaka 515
+Paturn Bilada 741
+Paturn Bubai 586
+Paturn Capepown 578
+Paturn Goaaa 633
+Paturn Idahoa 81
+Paturn Tlorida 440
+Paturn Halati 37
+Paturn Kurpram 723
+Togura Fandar 323
+Togura Rica 744
+Togura Nekrotona 3
+Togura Bageraat 73
+Togura Dheko 414
+Togura Kolcata 777
+Togura Utanda 819
+Togura Milon 711
+Togura Halati 978
+Waterboo Uraxus 273
+Waterboo Indino 890
+Waterboo Chihuahua 719
+Waterboo Mar 831
+Waterboo Harisha 559
+Waterboo Perish 98
+Bombayyya Mimito 183
+Bombayyya Shatira 83
+Bombayyya Indino 904
+Bombayyya Dheko 427
+Bombayyya Capepown 843
+Bombayyya Togura 727
+Bombayyya Malachiku 717
+Bombayyya Jupyteer 504
+Harisha Nekrotona 299
+Harisha Mebournel 92
+Harisha Chihuahua 333
+Harisha Capepown 663
+Harisha Togura 416
+Miamia Bubai 656
+Miamia Waterboo 586
+Miamia Natosree 356
+Gangrup Talatta 37
+Gangrup Capepown 564
+Gangrup Qagur 38
+Gangrup Goaaa 558
+Gangrup Cennai 748
+Gangrup Deptune 812
+Gangrup Halati 482
+Utanda Venos 787
+Utanda Paerta 381
+Utanda Goaaa 646
+Utanda Malachiku 997
+Utanda Perish 424
+Utanda Najshahee 91
+Rames Bilada 17
+Rames Venos 664
+Rames Mimito 178
+Rames Dalhia 597
+Rames Taranto 912
+Rames Deptune 473
+Rames Monirhat 224
+Goaaa Rica 72
+Goaaa Dinap 550
+Goaaa Dheko 123
+Goaaa Malachiku 9
+Goaaa Jupyteer 73
+Goaaa Natosree 500
+Goaaa Silhot 220
+Goaaa Hansa 329
+Qanada Rica 792
+Qanada Pangabat 381
+Qanada Mimito 619
+Qanada MssCow 857
+Qanada Janaluur 811
+Qanada Phulno 982
+Qanada Cennai 454
+Qanada Deptune 363
+Qanada Najshahee 566
+Albaba Vangailla 822
+Albaba Tumilao 743
+Albaba Qagur 175
+Albaba Rames 696
+Albaba Qanada 716
+Albaba Milon 303
+Albaba MexiKo 463
+Albaba Tlorida 220
+Cennai Mimito 353
+Cennai MssCow 569
+Cennai Uraxus 246
+Cennai Taranto 875
+Cennai Jupyteer 107
+Cennai Najshahee 204
+Cennai Tlorida 133
+Malachiku Venos 875
+Malachiku Dorcury 644
+Malachiku Tlorida 747
+Malachiku Spydero 208
+Malachiku Dalhia 599
+Malachiku Capepown 581
+Malachiku Phulno 90
+Malachiku Togura 166
+Malachiku Qanada 540
+Perish Venos 803
+Perish Austreliaa 975
+Perish Spydero 864
+Perish Paerta 76
+Perish Washiton 323
+Perish Qanada 336
+Perish Natosree 985
+Perish Kurpram 908
+Jupyteer Fandar 409
+Jupyteer Dinap 235
+Jupyteer Talatta 565
+Jupyteer Mixhinan 947
+Jupyteer Tholaa 170
+Jupyteer Califor 573
+Jupyteer Phulno 209
+Jupyteer Albaba 392
+Jupyteer Perish 661
+Jupyteer Natosree 686
+Jupyteer Bibihaka 97
+Natosree Dinap 240
+Natosree Austreliaa 759
+Natosree Uraxus 543
+Natosree Mixhinan 161
+Natosree Bubai 222
+Natosree Vangailla 946
+Natosree Tumilao 978
+Natosree Dheko 348
+Natosree Capepown 122
+Natosree Brozel 938
+Natosree Milon 274
+Natosree Tlorida 592
+Brozel Chetagoam 946
+Brozel MssCow 500
+Brozel Dalhia 73
+Brozel Indino 287
+Brozel Cennai 681
+Milon Dinap 242
+Milon MssCow 392
+Milon Bageraat 807
+Milon Indino 349
+Milon Waterboo 68
+Milon Harisha 650
+Milon MexiKo 646
+Milon Bibihaka 77
+Milon Kurpram 176
+Zaniko Dorcury 125
+Zaniko Talatta 40
+Zaniko Mixhinan 720
+Zaniko Chelico 864
+Zaniko Taranto 521
+Zaniko Waterboo 993
+Zaniko Utanda 112
+Zaniko Jupyteer 591
+Zaniko Brozel 843
+Zaniko Idahoa 607
+Zaniko Hansa 496
+MexiKo Rica 737
+MexiKo Dorcury 471
+MexiKo Tlorida 764
+MexiKo Tumilao 970
+MexiKo Mar 683
+MexiKo Capepown 733
+MexiKo Waterboo 316
+MexiKo Rames 804
+MexiKo Zaniko 952
+MexiKo Monirhat 416
+MexiKo Najshahee 782
+Deptune Dorcury 139
+Deptune Harisha 296
+Deptune Miamia 653
+Deptune Malachiku 45
+Deptune Hansa 152
+Idahoa Pangabat 486
+Idahoa Mebournel 919
+Idahoa Deptune 327
+Idahoa Silhot 761
+Idahoa Najshahee 455
+Monirhat Bilada 723
+Monirhat MssCow 80
+Monirhat Washiton 227
+Monirhat Paturn 916
+Silhot Bilada 328
+Silhot MssCow 719
+Silhot Dheko 862
+Silhot Mar 708
+Silhot Qanada 783
+Silhot Cennai 771
+Silhot Natosree 626
+Silhot Hansa 456
+Hansa Bilada 490
+Hansa Dorcury 222
+Hansa Bageraat 127
+Hansa Spydero 254
+Hansa Dheko 327
+Hansa Chihuahua 324
+Hansa Cennai 767
+Hansa Malachiku 876
+Hansa Natosree 217
+Hansa Kurpram 185
+Najshahee Venos 766
+Najshahee Mimito 300
+Najshahee Tumilao 333
+Najshahee Gangrup 870
+Najshahee Rames 817
+Najshahee Perish 334
+Najshahee Natosree 487
+Najshahee Bibihaka 330
+Tlorida MssCow 756
+Tlorida Shatira 78
+Tlorida Mixhinan 689
+Tlorida Indino 492
+Tlorida Phulno 591
+Bibihaka Fandar 900
+Bibihaka Dorcury 889
+Bibihaka Harisha 700
+Bibihaka Malachiku 532
+Bibihaka Halati 208
+Halati Austreliaa 747
+Halati Shatira 468
+Halati Uraxus 645
+Halati Janaluur 631
+Halati Mymena 668
+Halati Kolcata 576
+Halati Waterboo 331
+Halati Harisha 996
+Halati Miamia 488
+Halati Najshahee 5
+Kurpram Bilada 75
+Kurpram Mimito 724
+Kurpram Nekrotona 478
+Kurpram Tlorida 183
+Kurpram Shatira 835
+Kurpram Vangailla 74
+Kurpram Rames 454
+Kurpram Bibihaka 654
+Janaluur Utanda

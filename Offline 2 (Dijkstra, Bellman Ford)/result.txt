@@ -1,0 +1,6 @@
+Dijkstra Algorithm: 
+237
+17 -> 2 -> 37 -> 16 -> 4 -> 47 -> 38
+Bellman Ford Algorithm: 
+237
+17 -> 2 -> 37 -> 16 -> 4 -> 47 -> 38

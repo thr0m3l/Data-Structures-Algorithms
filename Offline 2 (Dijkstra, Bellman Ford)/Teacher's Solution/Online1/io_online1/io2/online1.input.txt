@@ -1,0 +1,52 @@
+20 30
+Natore 32
+Netrokona 5
+Dhaka 50
+Rangpur 73
+Rajshahi 78
+Rangamati 62
+Bogura 35
+Tangail 49
+Shatkhira 100
+Bagerhat 84
+Bandarban 70
+Barishal 13
+Chattogram 71
+Mymensingh 11
+Magura 3
+Cumilla 1
+Jamalpur 72
+Bhola 14
+Khulna 48
+Sylhet 78
+Natore Bandarban 738
+Netrokona Mymensingh 178
+Dhaka Rangamati 527
+Dhaka Jamalpur 563
+Rangpur Bhola 724
+Rangamati Khulna 705
+Bogura Magura 548
+Bogura Dhaka 822
+Tangail Bagerhat 609
+Shatkhira Bandarban 820
+Bagerhat Barishal 19
+Bagerhat Chattogram 658
+Bagerhat Bogura 44
+Bandarban Magura 232
+Barishal Netrokona 233
+Chattogram Cumilla 944
+Magura Barishal 286
+Cumilla Mymensingh 806
+Cumilla Tangail 132
+Jamalpur Magura 716
+Jamalpur Sylhet 562
+Jamalpur Rangamati 68
+Bhola Rajshahi 228
+Bhola Cumilla 692
+Khulna Netrokona 992
+Khulna Shatkhira 290
+Khulna Chattogram 357
+Khulna Magura 609
+Sylhet Bandarban 444
+Sylhet Bhola 901
+Sylhet Mymensingh

@@ -1,0 +1,35 @@
+10 23
+Milan 71
+Mymensingh 10
+Brazil 15
+Bagerhat 92
+Rome 4
+Goa 26
+Chennai 27
+Chattogram 74
+Kurigram 58
+Uranus 9
+Milan Brazil 953
+Milan Chattogram 15
+Milan Kurigram 626
+Mymensingh Rome 83
+Mymensingh Goa 530
+Mymensingh Chennai 715
+Mymensingh Kurigram 929
+Brazil Mymensingh 479
+Brazil Chennai 594
+Brazil Kurigram 48
+Brazil Uranus 531
+Bagerhat Mymensingh 248
+Bagerhat Brazil 69
+Bagerhat Rome 110
+Rome Chattogram 130
+Chennai Milan 184
+Chennai Bagerhat 527
+Chennai Chattogram 714
+Chennai Uranus 150
+Chattogram Uranus 989
+Kurigram Bagerhat 151
+Kurigram Chattogram 303
+Uranus Milan 314
+Goa Kurigram
